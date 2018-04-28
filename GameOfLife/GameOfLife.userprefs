@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/seed3_action.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FinishTurn.cs" Line="10" Column="17" />
+      <File FileName="Assets/Scripts/seed2_action.cs" Line="6" Column="19" />
+      <File FileName="Assets/Scripts/seed1_action.cs" Line="22" Column="2" />
+      <File FileName="Assets/Scripts/seed3_action.cs" Line="22" Column="2" />
+      <File FileName="Assets/Scripts/seed4_action.cs" Line="15" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
